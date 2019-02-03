@@ -1,0 +1,8 @@
+Executing Dynamic Programming with parameters: 
+capacity = 7500
+
+rValue,rWeight,rContent
+1458,7490,A;C;E;G;H;I;N;O;
+
+execTime:,20,ms
+Result is an optimal solution.

@@ -1,0 +1,8 @@
+Executing Dynamic Programming with parameters: 
+capacity = 250000
+
+rValue,rWeight,rContent
+533817,249997,AA;BA;FA;JA;KA;PA;VA;XA;AB;BB;DB;FB;JB;KB;PB;VB;XB;AC;BC;DC;FC;JC;KC;PC;VC;XC;AD;BD;DD;FD;JD;KD;PD;VD;XD;AE;BE;DE;FE;JE;KE;PE;VE;WE;XE;
+
+execTime:,12996,ms
+Result is an optimal solution.

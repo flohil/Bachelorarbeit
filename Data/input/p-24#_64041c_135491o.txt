@@ -1,0 +1,11 @@
+# General
+capacity = 64041
+
+# Genetic Algorithm
+iterations = 75 #150
+popSize = 50
+pc = 0.7
+pm = 0.001
+sameFitnessValueAbortPercentage = 0.9
+elitismCount = 0
+threadPoolSize = 4

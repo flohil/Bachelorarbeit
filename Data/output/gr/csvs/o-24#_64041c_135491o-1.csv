@@ -1,0 +1,8 @@
+Executing Greedy Algorithm with parameters: 
+capacity = 64041
+
+rValue,rWeight,rContent
+123063,63825,C;E;F;G;H;L;M;N;O;R;S;T;U;
+
+execTime:,0,ms
+Result is a greedy solution.

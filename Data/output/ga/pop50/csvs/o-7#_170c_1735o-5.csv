@@ -1,0 +1,33 @@
+Executing Genetic Algorithm with parameters: 
+capacity = 170; maxIterations = 75; popSize = 50; pc = 0.7; pm = 0.001; sameFitnessValueAbortPercentage = 0.9; threadPoolSize = 4
+
+iteration,aValue,cValue,cWeight,cContent,bValue,bWeight,bContent
+1,172.64,1735,169,B;D;G;,1735,169,B;D;G;
+2,665.66,1706,167,B;F;G;,1735,169,B;D;G;
+3,1097.02,1688,165,B;E;G;,1735,169,B;D;G;
+4,1189.96,1721,168,C;D;G;,1735,169,B;D;G;
+5,1187.22,1721,168,C;D;G;,1735,169,B;D;G;
+6,1121.44,1721,168,C;D;G;,1735,169,B;D;G;
+7,1138.12,1688,165,B;E;G;,1735,169,B;D;G;
+8,1268.88,1688,165,B;E;G;,1735,169,B;D;G;
+9,1233.7,1688,165,B;E;G;,1735,169,B;D;G;
+10,1148.8,1688,165,B;E;G;,1735,169,B;D;G;
+11,1274.9,1674,164,C;E;G;,1735,169,B;D;G;
+12,1362.68,1674,164,C;E;G;,1735,169,B;D;G;
+13,1357.68,1674,164,C;E;G;,1735,169,B;D;G;
+14,1351.44,1674,164,C;E;G;,1735,169,B;D;G;
+15,1307.12,1674,164,C;E;G;,1735,169,B;D;G;
+16,1378.86,1674,164,C;E;G;,1735,169,B;D;G;
+17,1337.5,1674,164,C;E;G;,1735,169,B;D;G;
+18,1429.48,1674,164,C;E;G;,1735,169,B;D;G;
+19,1570.4,1674,164,C;E;G;,1735,169,B;D;G;
+20,1625,1674,164,C;E;G;,1735,169,B;D;G;
+
+rValue,rWeight,rContent
+1735,169,B;D;G;
+
+execTime:,3,ms
+bestExecTime:,0,ms
+bestFitnessIteration:,1
+abortIteration:,20
+Result is an approximation.
