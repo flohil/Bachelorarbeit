@@ -13,6 +13,6 @@ An example invocation:
 `./KnapsackProblem.exe input/i-7#_170c_1735o.csv out7.csv GA input/p-7#_170c_1735o.txt`
 
 The following algorithms are supported for solving the binary knapsack problem:
-- Greedy Algorithm
-- Dynamic Programming
-- Genetic Algorithms
+- Greedy Algorithm (GR)
+- Dynamic Programming (DP)
+- Genetic Algorithms (GA)
